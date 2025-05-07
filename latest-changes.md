@@ -2,32 +2,37 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://pyrobosim.readthedocs.io/">pyrobosim</a></b> (🥈20 ·  ⭐ 320 · 📈) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://ntnu-arl.github.io/aerial_gym_simulator/">Aerial Gym Simulator</a></b> (🥈15 ·  ⭐ 470 · 📈) - Aerial Gym Simulator - Isaac Gym Simulator for Aerial Robots. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/spencerfolk/rotorpy">rotorpy</a></b> (🥈15 ·  ⭐ 140 · 📈) - A multirotor simulator with aerodynamics for education and research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥇25 ·  ⭐ 3.5K · 📈) - Unified framework for robot learning built on NVIDIA Isaac Sim. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://blog.openai.com/roboschool/">Roboschool</a></b> (🥈20 ·  ⭐ 2.1K · 💤) - DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://roboverseorg.github.io/">RoboVerse</a></b> (🥉16 ·  ⭐ 1.1K · 🐣) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/spencerfolk/rotorpy">rotorpy</a></b> (🥈16 ·  ⭐ 150 · 📈) - A multirotor simulator with aerodynamics for education and research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/OmniLRS/OmniLRS/wiki">OmiLRS</a></b> (🥉12 ·  ⭐ 92 · 📈) - Omniverse Lunar Robotics Simulator. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥈24 ·  ⭐ 3.5K · 📉) - Unified framework for robot learning built on NVIDIA Isaac Sim. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://maniskill.ai/">ManiSkill</a></b> (🥈21 ·  ⭐ 1.5K · 📉) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/OmniLRS/OmniLRS/wiki">OmiLRS</a></b> (🥉9 ·  ⭐ 90 · 📉) - Omniverse Lunar Robotics Simulator. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="http://dartsim.github.io/">DART</a></b> (🥈22 ·  ⭐ 960 · 📉) - DART: Dynamic Animation and Robotics Toolkit. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
+- <b><a href="https://aihabitat.org/">Habitat Sim</a></b> (🥈21 ·  ⭐ 2.9K · 📉) - A flexible, high-performance 3D simulator for Embodied AI research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/tier4/AWSIM">AWSim</a></b> (🥈21 ·  ⭐ 580 · 📉) - Open source simulator for self-driving vehicles. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://utiasdsl.github.io/gym-pybullet-drones/">Gym Pybullet Drones</a></b> (🥈16 ·  ⭐ 1.5K · 📉) - PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://pegasussimulator.github.io/PegasusSimulator/">Pegasus Simulator</a></b> (🥉14 ·  ⭐ 450 · 📉) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 
 ## ➕ Added Projects
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://projectchrono.org">Project CHRONO</a></b> (🥈27 ·  ⭐ 2.4K · ➕) - High-performance C++ library for multiphysics and multibody dynamics simulations. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/google/brax">BRAX</a></b> (🥈26 ·  ⭐ 2.6K · ➕) - Massively parallel rigidbody physics simulation on accelerator hardware. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://jaxsim.readthedocs.io">jaxsim</a></b> (🥈22 ·  ⭐ 120 · ➕) - A differentiable physics engine and multibody dynamics library for control and robot learning. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://playground.mujoco.org/">MuJoCo playground</a></b> (🥇15 ·  ⭐ 980 · 🐣) - An open-source library for GPU-accelerated robot learning and sim-to-real transfer. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://raisim.com/">RaiSim</a></b> (🥉15 ·  ⭐ 370 · ➕) - Visit www.raisim.com. <code><a href="https://tldrlegal.com/search?q=Proprietary%20Software%20License">❗️Proprietary Software License</a></code>
-- <b><a href="https://www.irs.uji.es/uwsim/wiki/index.php?title=Installing_UWSim">UWSim</a></b> (🥉11 ·  ⭐ 110 · 💤) - UWSim-NET, the Underwater Simulator. <code>❗Unlicensed</code>
-- <b><a href="https://projectchrono.org">Ocean Sim</a></b> (🥉8 ·  ⭐ 190 · 🐣) - OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework [Preprint]. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://www.mathworks.com/products/robotics.html">MATLAB Robotics Systems Toolbox</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=Proprietary%20Software%20License">❗️Proprietary Software License</a></code>
-- <b><a href="https://www.mathworks.com/products/simscape.html">Simscape</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=Proprietary%20Software%20License">❗️Proprietary Software License</a></code>
-- <b><a href="https://www.mathworks.com/products/roadrunner.html">Roadrunner</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=Proprietary%20Software%20License">❗️Proprietary Software License</a></code>
-- <b><a href="https://www.mathworks.com/products/reinforcement-learning.html">Reinforcement Learning Toolbox</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=Proprietary%20Software%20License">❗️Proprietary Software License</a></code>
-- <b><a href="https://www.robotec.ai/products">RoSi</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=Proprietary%20Software%20License">❗️Proprietary Software License</a></code>
+- <b><a href="https://github.com/uuvsimulator/uuv_simulator">uuv_simulator</a></b> (🥇14 ·  ⭐ 770 · 💤) - Gazebo/ROS packages for underwater robotics simulation. <code>Unlicensed</code>
+- <b><a href="https://github.com/open-airlab/UNav-Sim">UNav-Sim</a></b> (🥇14 ·  ⭐ 200 · ➕) - Visually Realistic Underwater Robotics Simulator UNav-Sim. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/code-iai/ROSIntegration">ROS1 Intergration for Unreal 4</a></b> (🥉13 ·  ⭐ 430 · ➕) - Unreal Engine Plugin to enable ROS Support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/uji-ros-pkg/underwater_simulation">UWSim-NET</a></b> (🥈11 ·  ⭐ 110 · 💤) - UWSim-NET, the Underwater Simulator. <code>Unlicensed</code>
+- <b><a href="https://github.com/moos-ivp/moos-ivp">Moos-ivp</a></b> (🥈11 ·  ⭐ 21 · ➕) - MOOS-IvP is a set of modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles. <code><a href="https://tldrlegal.com/search?q=GPLv3%20LGPLv3%20and%20Commercial">GPLv3 LGPLv3 and Commercial</a></code>
+- <b><a href="https://github.com/osrf/lrauv">LRUAV</a></b> (🥉10 ·  ⭐ 68 · ➕) - Packages for simulating the Tethys-class Long-Range AUV (LRAUV) from the Monterey Bay Aquarium Research Institute.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/freefloating-gazebo/freefloating_gazebo">Freefloating</a></b> (🥉9 ·  ⭐ 72 · 💤) - A Gazebo plugin to simulate underwater vehicles and visualize with UWsim. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/srmauvsoftware/URSim">URSim</a></b> (🥉8 ·  ⭐ 63 · 💤) - Simulator for Unmanned Underwater Vehicles using ROS and Unity3D. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/iti-luebeck/MARS">MARS</a></b> (🥉7 ·  ⭐ 12 · 💤) - MArine Robotics Simulator - An online Hardware-in-the-Loop simulation environment for multiple AUVs and ASVs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/MARUSimulator/marus-core">MARUSimulator</a></b> (🥉6 ·  ⭐ 20 · ➕) - Marine simulator core assets for Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://bitbucket.org/whoidsl/ds_sim/src/master/">ds sim</a></b> (➕) -  <code>Unlicensed</code>
+- <b><a href="https://sourceforge.net/projects/usarsim/">USARSim</a></b> (➕) -  <code>Unlicensed</code>
+- <b><a href="https://github.com/eirikhex/UW-MORSE">UW-Morse</a></b> (🥉-1 ·  ⭐ 1 · 💤) -  <code>Unlicensed</code>
 
